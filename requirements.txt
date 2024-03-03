@@ -1,6 +1,4 @@
 ﻿absl-py==1.4.0
-anaconda-client==1.11.0
-anaconda-navigator==2.3.2
 appdirs==1.4.4
 astunparse==1.6.3
 atomicwrites==1.4.0
@@ -10,10 +8,6 @@ brotlipy==0.7.0
 cachetools==5.3.1
 clyent==1.2.2
 comtypes==1.1.10
-conda==23.1.0
-conda-build==3.22.0
-conda-repo-cli==1.0.20
-conda-verify==3.4.2
 constantly==15.1.0
 cssselect==1.1.0
 cytoolz==0.11.0
@@ -47,7 +41,6 @@ mpmath==1.2.1
 munkres==1.1.4
 mypy-extensions==0.4.3
 navigator-updater==0.3.0
-numpy==1.24.3
 oauthlib==3.2.2
 opencv-contrib-python==4.8.0.74
 opencv-python==4.8.0.74
