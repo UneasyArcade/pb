@@ -14,7 +14,6 @@ distlib==0.3.8
 eli5==0.13.0
 et-xmlfile==1.1.0
 exceptiongroup==1.1.0
-filelock==3.13.1
 flatbuffers==23.5.26
 fonttools==4.25.0
 gast==0.4.0
